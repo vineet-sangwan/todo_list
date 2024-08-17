@@ -23,6 +23,6 @@ Ensure you have the following installed on your system:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/vineet-sangwan/React-TodoApp.git
+git clone (https://github.com/vineet-sangwan/todo_list)
 cd TodoApp
 
